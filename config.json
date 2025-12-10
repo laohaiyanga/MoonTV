@@ -32,7 +32,7 @@
       "api": "https://360zy.com/api.php/provide/vod",
       "name": "360资源"
     },
-    "maotaizy": {
+    "mtyun": {
       "api": "https://caiji.maotaizy.cc/api.php/provide/vod",
       "name": "茅台资源"
     },
@@ -79,7 +79,67 @@
     },
     "lzi": {
       "api": "https://cj.lziapi.com/api.php/provide/vod",
-      "name": "量子资源站"
+      "name": "量子资源"
+    },
+    "hnyun": {
+      "api": "https://www.hongniuzy2.com/api.php/provide/vod",
+      "name": "红牛资源"
+    },
+    "gsyun": {
+      "api": "https://api.guangsuapi.com/api.php/provide/vod",
+      "name": "光速资源"
+    },
+    "jinyingyun": {
+      "api": "https://jyzyapi.com/provide/vod",
+      "name": "金鹰资源"
+    },
+    "xlyun": {
+      "api": "https://api.xinlangapi.com/xinlangapi.php/provide/vod",
+      "name": "新浪资源"
+    },
+    "subyun": {
+      "api": "https://subocj.com/api.php/provide/vod",
+      "name": "速播资源"
+    },
+    "hhyun": {
+      "api": "https://hhzyapi.com/api.php/provide/vod",
+      "name": "豪华资源"
+    },
+    "hyyun": {
+      "api": "https://www.huyaapi.com/api.php/provide/vod",
+      "name": "虎牙资源"
+    },
+    "iqym3u8": {
+      "api": "https://www.iqiyizyapi.com/api.php/provide/vod",
+      "name": "爱奇艺资源"
+    },
+    "dbyun": {
+      "api": "https://caiji.dbzy5.com/api.php/provide/vod",
+      "name": "豆瓣资源"
+    },
+    "mym3u8": {
+      "api": "https://api.maoyanapi.top/api.php/provide/vod",
+      "name": "猫眼资源"
+    },
+    "okm3u8": {
+      "api": "http://api.okzyw.net/api.php/provide/vod",
+      "name": "OK资源"
+    },
+    "ikunm3u8": {
+      "api": "https://zy.sh0o.cn/api.php/provide/vod",
+      "name": "山海资源"
+    },
+    "ukyun": {
+      "api": "https://api.ukuapi88.com/api.php/provide/vod",
+      "name": "U酷资源"
+    },
+    "kcm3u8": {
+      "api": "https://caiji.kczyapi.com/api.php/provide/vod",
+      "name": "快车资源"
+    },
+    "dbm3u8": {
+      "api": "https://api.apibdzy.com/api.php/provide/vod",
+      "name": "百度资源"
     },
     "xiaomaomi": {
       "api": "https://zy.xmm.hk/api.php/provide/vod",
